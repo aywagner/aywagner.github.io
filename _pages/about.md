@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About
-======
 I am a Phillip Griffiths Assistant Research Professor of Mathematics at Duke University, mentored by [Paul Bendich](http://paulbendich.com/) and [Sayan Mukherjee](https://sayanmuk.github.io/). I completed my PhD in mathematics at the University of Florida under the direction of [Peter Bubenik](https://people.clas.ufl.edu/peterbubenik/) in 2020, with the support of the [UF Informatics Institute Graduate Student Fellowship](https://informatics.research.ufl.edu/ufii-programs/ufii-fellowship.html). I was a visitor at the [Hausdorff Research Institute for Mathematics](https://www.him.uni-bonn.de/him-home/) in the fall of 2017. A CV can be found [here](https://aywagner.github.io/files/wagnercv.pdf).
 
 My research interests are in applied topology, statistical learning theory, and risk management. My work has focused on the mathematical theory of various topological invariants and their use in new or improved optimization techniques. I enjoy developing mathematical theory for novel topological and geometric data science techniques and in implementing these techniques as practical software. A project portfolio can be found [here](https://aywagner.github.io/portfolio).

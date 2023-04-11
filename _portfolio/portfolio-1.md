@@ -1,6 +1,6 @@
 ---
 title: "Improving Metric Dimensionality Reduction with Distributed Topology"
-excerpt: "<p>(with Elchanan Solomon and Paul Bendich) [arXiv preprint] We use our notion of distributed persistence and local geometry to define a new dimensionality-reduction algorithm called DIPOLE. <a href="https://arxiv.org/abs/2106.07613">[paper]</a>, <a href="https://github.com/aywagner/DIPOLE">[code]</a> </p> <img src='/images/mammoth.png'>" 
+excerpt: "(with Elchanan Solomon and Paul Bendich) [arXiv preprint] We use our notion of distributed persistence and local geometry to define a new dimensionality-reduction algorithm called DIPOLE. [paper](https://arxiv.org/abs/2106.07613), [code](https://github.com/aywagner/DIPOLE) <br/> <br/> <img src='/images/mammoth.png'>" 
 collection: portfolio
 ---
 

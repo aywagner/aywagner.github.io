@@ -1,6 +1,6 @@
 ---
 title: "Stabilizing the unstable output of persistent homology computations"
-excerpt: "(with Paul Bendich and Peter Bubenik) [Journal of Applied and Computational Topology] We propose a general technique for extracting a larger set of stable information from persistent homology computations than is currently done.[paper](https://arxiv.org/abs/1512.01700), [code](https://github.com/peter-bubenik/stabilizing-paper-code)<br/> <br/> <img src='/images/doubleannulus.png'>" 
+excerpt: "(with Paul Bendich and Peter Bubenik) [Journal of Applied and Computational Topology] We propose a general technique for extracting a larger set of stable information from persistent homology computations than is currently done. [paper](https://arxiv.org/abs/1512.01700), [code](https://github.com/peter-bubenik/stabilizing-paper-code) <br/> <img src='/images/doubleannulus.png'>" 
 collection: portfolio
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "From Geometry to Topology: Inverse Theorems for Distributed Persistence"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/disttop.png'>"
+excerpt: "(with Elchanan Solomon and Paul Bendich) <br/> [Symposium on Computational Geometry] <br/> We introduce a distributed version of persistent homology that provably characterizes a metric space in a Lipschitz way. [paper](https://arxiv.org/abs/2101.12288) <br/> <img src='/images/disttop.png'>" 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Abstract: What is the "right" topological invariant of a large point cloud X? Prior research has focused on estimating the full persistence diagram of X, a quantity that is very expensive to compute, unstable to outliers, and far from a sufficient statistic. We therefore propose that the correct invariant is not the persistence diagram of X, but rather the collection of persistence diagrams of many small subsets. This invariant, which we call "distributed persistence," is perfectly parallelizable, more stable to outliers, and has a rich inverse theory. The map from the space of point clouds (with the quasi-isometry metric) to the space of distributed persistence invariants (with the Hausdorff-Bottleneck distance) is a global quasi-isometry. This is a much stronger property than simply being injective, as it implies that the inverse of a small neighborhood is a small neighborhood, and is to our knowledge the only result of its kind in the TDA literature. Moreover, the quasi-isometry bounds depend on the size of the subsets taken, so that as the size of these subsets goes from small to large, the invariant interpolates between a purely geometric one and a topological one. Lastly, we note that our inverse results do not actually require considering all subsets of a fixed size (an enormous collection), but a relatively small collection satisfying certain covering properties that arise with high probability when randomly sampling subsets. These theoretical results are complemented by two synthetic experiments demonstrating the use of distributed persistence in practice.
+
+[paper](https://arxiv.org/abs/2101.12288)

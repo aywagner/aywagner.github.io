@@ -1,6 +1,6 @@
 ---
 title: "Improving Metric Dimensionality Reduction with Distributed Topology (with Elchanan Solomon and Paul Bendich)"
-excerpt: "We use our notion of distributed persistence and local geometry to define a new dimensionality-reduction technique.  1<br/><img src='/images/mammoth.png'>"
+excerpt: "(with Elchanan Solomon and Paul Bendich) <br/> We use our notion of distributed persistence and local geometry to define a new dimensionality-reduction algorithm. <br/><img src='/images/mammoth.png'>"
 collection: portfolio
 ---
 

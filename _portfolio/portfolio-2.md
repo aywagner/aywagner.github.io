@@ -1,6 +1,6 @@
 ---
 title: "From Geometry to Topology: Inverse Theorems for Distributed Persistence"
-excerpt: "(with Elchanan Solomon and Paul Bendich) [Symposium on Computational Geometry] We introduce a distributed version of persistent homology that provably characterizes a metric space in a Lipschitz way. [paper](https://arxiv.org/abs/2101.12288) <br/> <img src='/images/disttop.png'>" 
+excerpt: "<p>(with Elchanan Solomon and Paul Bendich) [Symposium on Computational Geometry] We introduce a distributed version of persistent homology that provably characterizes a metric space in a Lipschitz way. <a href="https://arxiv.org/abs/2101.12288">[paper]</a> </p> <img src='/images/disttop.png'>" 
 collection: portfolio
 ---
 

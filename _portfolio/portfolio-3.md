@@ -1,6 +1,6 @@
 ---
 title: "A Fast and Robust Method for Global Topological Functional Optimization"
-excerpt: "<p>(with Elchanan Solomon and Paul Bendich) [4th International Conference on Artificial Intelligence and Statistics (AISTATS)] We introduce a new framework for optimizing topological functionals that is faster and produces more robust optima than prior methods. [paper](https://arxiv.org/abs/2009.08496), [code](https://github.com/aywagner/TDA-smear) </p> <br/> <img src='/images/stump.png'>" 
+excerpt: "<p>(with Elchanan Solomon and Paul Bendich) [4th International Conference on Artificial Intelligence and Statistics (AISTATS)] We introduce a new framework for optimizing topological functionals that is faster and produces more robust optima than prior methods. <a href="https://arxiv.org/abs/2009.08496">[paper]</a>, <a href="https://github.com/aywagner/TDA-smear">[code]</a> </p> <img src='/images/stump.png'>" 
 collection: portfolio
 ---
 

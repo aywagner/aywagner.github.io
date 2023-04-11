@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Optimization with Expectile and Omega Functions"
-excerpt: "(with Stan Uryasev) [2019 Winter Simulation Conference] We prove equivalences of portfolio optimization problems with negative expectile, a risk measure generalizing expected value, and omega ratio. We also derive subgradients for negative expectile. [paper](https://arxiv.org/pdf/1910.14005.pdf), [code](https://www.ise.ufl.edu/uryasev/research/testproblems/financial_engineering/case-study-portfolio-optimization-with-expectiles/) <br/> <img src='/images/cvarcompare.png'>" 
+excerpt: "<p>(with Stan Uryasev) [2019 Winter Simulation Conference] We prove equivalences of portfolio optimization problems with negative expectile, a risk measure generalizing expected value, and omega ratio. We also derive subgradients for negative expectile. <a href="https://arxiv.org/pdf/1910.14005.pdf">[paper]</a>, <a href="https://www.ise.ufl.edu/uryasev/research/testproblems/financial_engineering/case-study-portfolio-optimization-with-expectiles/">[code]</a> </p> <img src='/images/cvarcompare.png'>" 
 collection: portfolio
 ---
 
